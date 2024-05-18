@@ -9,7 +9,7 @@ const wardRouter = require("./routes/wards.router");
 
 const cors = require('cors');
 const corsOptions = {
-  origin: ['http://localhost:3000', 'https://medicareapp.vercel.app'],
+  origin: ['http://localhost:3000', 'https://healthify-0xwt.onrender.com'],
   credentials: true,
   optionSuccessStatus: 200
 }
